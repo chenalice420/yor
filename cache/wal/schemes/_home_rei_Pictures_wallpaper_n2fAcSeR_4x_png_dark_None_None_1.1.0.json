@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/rei/Pictures/wallpaper/n2fAcSeR_4x.png",
+    "alpha": "100",
+    "special": {
+        "background": "#261516",
+        "foreground": "#f6efdf",
+        "cursor": "#f6efdf"
+    },
+    "colors": {
+        "color0": "#261516",
+        "color1": "#E6D8AF",
+        "color2": "#F6D2B8",
+        "color3": "#B3B7D4",
+        "color4": "#CBBCD6",
+        "color5": "#D4D1DD",
+        "color6": "#F5D7CA",
+        "color7": "#f6efdf",
+        "color8": "#aca79c",
+        "color9": "#E6D8AF",
+        "color10": "#F6D2B8",
+        "color11": "#B3B7D4",
+        "color12": "#CBBCD6",
+        "color13": "#D4D1DD",
+        "color14": "#F5D7CA",
+        "color15": "#f6efdf"
+    }
+}

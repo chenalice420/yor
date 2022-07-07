@@ -1,0 +1,21 @@
+set $wallpaper /home/ayaka/Pictures/wallpaper/98461983_p0.png
+
+set $background #060C11
+set $foreground #abcac2
+
+set $color0 #060C11
+set $color1 #5F6054
+set $color2 #9D2B25
+set $color3 #AA554D
+set $color4 #DB635D
+set $color5 #6E8974
+set $color6 #B88977
+set $color7 #abcac2
+set $color8 #778d87
+set $color9 #5F6054
+set $color10 #9D2B25
+set $color11 #AA554D
+set $color12 #DB635D
+set $color13 #6E8974
+set $color14 #B88977
+set $color15 #abcac2

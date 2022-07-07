@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/rei/wallpaper/27tCbXTG_4x.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#151215",
+        "foreground": "#e8e8e4",
+        "cursor": "#e8e8e4"
+    },
+    "colors": {
+        "color0": "#151215",
+        "color1": "#3B5DA4",
+        "color2": "#93399C",
+        "color3": "#2CB2C8",
+        "color4": "#EF9994",
+        "color5": "#DDCBB7",
+        "color6": "#A8BFC3",
+        "color7": "#e8e8e4",
+        "color8": "#a2a29f",
+        "color9": "#3B5DA4",
+        "color10": "#93399C",
+        "color11": "#2CB2C8",
+        "color12": "#EF9994",
+        "color13": "#DDCBB7",
+        "color14": "#A8BFC3",
+        "color15": "#e8e8e4"
+    }
+}

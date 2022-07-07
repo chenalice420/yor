@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/rei/wallpaper/goegr3.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101418",
+        "foreground": "#c2c2df",
+        "cursor": "#c2c2df"
+    },
+    "colors": {
+        "color0": "#101418",
+        "color1": "#3953A7",
+        "color2": "#0462CB",
+        "color3": "#AD5D9E",
+        "color4": "#AE60A5",
+        "color5": "#4D8CC1",
+        "color6": "#6791D3",
+        "color7": "#c2c2df",
+        "color8": "#87879c",
+        "color9": "#3953A7",
+        "color10": "#0462CB",
+        "color11": "#AD5D9E",
+        "color12": "#AE60A5",
+        "color13": "#4D8CC1",
+        "color14": "#6791D3",
+        "color15": "#c2c2df"
+    }
+}

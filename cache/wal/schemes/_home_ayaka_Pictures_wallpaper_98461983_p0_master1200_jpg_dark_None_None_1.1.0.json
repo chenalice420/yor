@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ayaka/Pictures/wallpaper/98461983_p0_master1200.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#060B11",
+        "foreground": "#aac8c2",
+        "cursor": "#aac8c2"
+    },
+    "colors": {
+        "color0": "#060B11",
+        "color1": "#5F6154",
+        "color2": "#9C2B26",
+        "color3": "#A9554C",
+        "color4": "#DA645E",
+        "color5": "#6F8974",
+        "color6": "#B78978",
+        "color7": "#aac8c2",
+        "color8": "#768c87",
+        "color9": "#5F6154",
+        "color10": "#9C2B26",
+        "color11": "#A9554C",
+        "color12": "#DA645E",
+        "color13": "#6F8974",
+        "color14": "#B78978",
+        "color15": "#aac8c2"
+    }
+}

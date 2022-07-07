@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ayaka/Pictures/wallpaper/ders1cg7ng391.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#13151b",
+        "foreground": "#c8cedf",
+        "cursor": "#c8cedf"
+    },
+    "colors": {
+        "color0": "#13151b",
+        "color1": "#5D6494",
+        "color2": "#9D6A8F",
+        "color3": "#738CAD",
+        "color4": "#A19B9D",
+        "color5": "#C5B9BD",
+        "color6": "#E6D2B1",
+        "color7": "#c8cedf",
+        "color8": "#8c909c",
+        "color9": "#5D6494",
+        "color10": "#9D6A8F",
+        "color11": "#738CAD",
+        "color12": "#A19B9D",
+        "color13": "#C5B9BD",
+        "color14": "#E6D2B1",
+        "color15": "#c8cedf"
+    }
+}

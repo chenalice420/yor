@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/rei/wallpaper/fardshidfard.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0F0C0A",
+        "foreground": "#c9dae8",
+        "cursor": "#c9dae8"
+    },
+    "colors": {
+        "color0": "#0F0C0A",
+        "color1": "#BF9A58",
+        "color2": "#5F7391",
+        "color3": "#73869F",
+        "color4": "#A29FA1",
+        "color5": "#C9B7AD",
+        "color6": "#D1C5B9",
+        "color7": "#c9dae8",
+        "color8": "#8c98a2",
+        "color9": "#BF9A58",
+        "color10": "#5F7391",
+        "color11": "#73869F",
+        "color12": "#A29FA1",
+        "color13": "#C9B7AD",
+        "color14": "#D1C5B9",
+        "color15": "#c9dae8"
+    }
+}

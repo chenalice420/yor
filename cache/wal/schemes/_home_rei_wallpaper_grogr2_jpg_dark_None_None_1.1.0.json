@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/rei/wallpaper/grogr2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0e0d",
+        "foreground": "#a2e6c2",
+        "cursor": "#a2e6c2"
+    },
+    "colors": {
+        "color0": "#0d0e0d",
+        "color1": "#33843D",
+        "color2": "#07A750",
+        "color3": "#05AB53",
+        "color4": "#658F54",
+        "color5": "#13C671",
+        "color6": "#8F9D6A",
+        "color7": "#a2e6c2",
+        "color8": "#71a187",
+        "color9": "#33843D",
+        "color10": "#07A750",
+        "color11": "#05AB53",
+        "color12": "#658F54",
+        "color13": "#13C671",
+        "color14": "#8F9D6A",
+        "color15": "#a2e6c2"
+    }
+}

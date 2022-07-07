@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ayaka/wallpaper/ayaka-genshin-impact-art-1-4k-wallpaper-3840x2160-uhdpaper.com-976.1_a.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#161415",
+        "foreground": "#e9e1e9",
+        "cursor": "#e9e1e9"
+    },
+    "colors": {
+        "color0": "#161415",
+        "color1": "#718DB1",
+        "color2": "#A193AA",
+        "color3": "#D59FAA",
+        "color4": "#A5ACCE",
+        "color5": "#E0AFD5",
+        "color6": "#C9D0D0",
+        "color7": "#e9e1e9",
+        "color8": "#a39da3",
+        "color9": "#718DB1",
+        "color10": "#A193AA",
+        "color11": "#D59FAA",
+        "color12": "#A5ACCE",
+        "color13": "#E0AFD5",
+        "color14": "#C9D0D0",
+        "color15": "#e9e1e9"
+    }
+}
